@@ -1,7 +1,7 @@
 import Gallery from '@/components/Gallery';
 
 export const metadata = {
-  title: 'Shreesha Today | Adulthood',
+  title: 'Sneha Today | Adulthood',
 };
 
 // Expects 20 images at public/adulthood/img1.jpg ... img20.jpg

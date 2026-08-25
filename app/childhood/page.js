@@ -1,7 +1,7 @@
 import Gallery from '@/components/Gallery';
 
 export const metadata = {
-  title: 'Little Shreesha | Childhood',
+  title: 'Little Sneha | Childhood',
 };
 
 // Expects 20 images at public/childhood/img1.jpg ... img20.jpg

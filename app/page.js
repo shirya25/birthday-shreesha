@@ -151,7 +151,7 @@ export default function HomePage() {
         </div>
 
         <p className="hero__eyebrow">a little celebration, just for</p>
-        <h1 className="hero__name">Shreesha</h1>
+        <h1 className="hero__name">Sneha Tai</h1>
         <p className="hero__line">It&apos;s your birthday — the sky knows it too.</p>
 
         <a href="#message" className="scroll-cue" aria-label="Scroll down">
@@ -168,7 +168,7 @@ export default function HomePage() {
         </svg>
 
         <p className="message__text">
-          Dear Shreesha, <br />
+          Dear Sneha, <br />
           Some people just make a room warmer the moment they walk in — you&apos;re one of them.
           Today isn&apos;t just about cake and candles (although, yes, definitely those too),
           it&apos;s a small pause to say: the world is genuinely better with you in it.
