@@ -255,7 +255,7 @@ export default function HomePage() {
       <canvas id="confetti" ref={confettiCanvasRef} aria-hidden="true"></canvas>
 
       <footer className="footer">
-        <p>made with 🤍 for the birthday girl herself</p>
+        <p>made with 🤍 by shrinidhi</p>
       </footer>
     </main>
   );
