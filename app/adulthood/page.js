@@ -6,7 +6,7 @@ export const metadata = {
 
 // Expects 20 images at public/adulthood/img1.jpg ... img20.jpg
 // Change the extension below if your files are .png / .jpeg instead.
-const images = Array.from({ length: 7 }, (_, i) => ({
+const images = Array.from({ length: 11 }, (_, i) => ({
   src: `/adulthood/${i + 1}.png`,
   alt: `Adulthood memory ${i + 1}`,
 }));
